@@ -35,3 +35,6 @@ yazabilir misiniz?
  . Yukarıda belirttim
 4- Eklemek istediğiniz bir yorumunuz var mı?
  . Süre ve iş yoğunluğumdan dolayı çok fazla tasarıma odaklanamadım. Eğer daha spesifik olarak belirtirseniz yapıyı daha iyi olabilir.
+
+
+NOT : API'yi test etmek için url'in yanına '/swagger' yazıp test edebilirsiniz
